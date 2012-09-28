@@ -11,8 +11,8 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : N⇡
+tagline: The enemy's gate is down
 author :
   name : Adam Hitchcock
   email : adam@northisup.com
@@ -83,7 +83,8 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : northisup
+      identifier_base: http://northisup.com
     livefyre :
       site_id : 123
     intensedebate :
@@ -101,7 +102,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-4048470-1'
     getclicky :
       site_id :
     mixpanel :
@@ -114,6 +115,17 @@ JB :
   #
   sharing :
     provider : false
+
+  embedly:
+    api_key: 0f1e60a8ba5f11e0a4f24040d3dc5c07
+
+    soundcloud:
+      color: 0066FF # SoundCloud specific parameter for colorful players
+      width: 500px
+
+    vimeo:
+      width: 500px
+
 
   # Settings for all other include helpers can be defined by creating
   # a hash with key named for the given helper. ex:

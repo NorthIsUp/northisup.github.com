@@ -1,16 +1,16 @@
---- 
+---
 layout: post
-title: GoogleTv apps suck.
+title: "GoogleTv apps suck."
 published: true
-meta: 
+meta:
   _edit_last: "2"
-tags: 
+tags:
 - Life
 type: post
 status: publish
 ---
 Looking at the current offering of GoogleTv apps I think we need to have a discussion about how GoogleTv is different from mobile and what the experience should be like.
-    
+
 The TV is a media browser so put your pictures, movies, statuses, etc. front, center, and full screen. Don't waste space with large and useless UI elements (I'm looking at you Twitter). The Tv is also multi-user, don't focus on single user experience; always ask how will your app interact with one to five people in the room.
 
 Apps need to be thought about in terms of "watching" them instead of the normal high level of interaction. This being said, I think apps generally fall in to an active or passive mode.

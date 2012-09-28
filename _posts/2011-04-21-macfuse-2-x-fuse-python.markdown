@@ -1,8 +1,8 @@
---- 
+---
 layout: post
-title: MacFUSE 2.x + fuse-python
+title: "MacFUSE 2.x + fuse-python"
 published: true
-meta: 
+meta:
   audio: http://
   aktt_notify_twitter: "yes"
   quote-url: http://
@@ -14,7 +14,7 @@ meta:
   seo_follow: "false"
   link-url: http://
   quote-author: Unknown
-tags: 
+tags:
 - Code
 - FUSE
 - git

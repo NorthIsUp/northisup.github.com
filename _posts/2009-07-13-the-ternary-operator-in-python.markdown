@@ -1,13 +1,13 @@
---- 
+---
 layout: post
-title: The ternary operator in Python
+title: "The ternary operator in Python"
 published: true
-meta: 
+meta:
   aktt_notify_twitter: "yes"
   _edit_last: "2"
   aktt_tweeted: "1"
   btc_comment_counts: a:0:{}
-tags: 
+tags:
 - Code
 - python
 - Technology
@@ -79,4 +79,4 @@ Here is an example of each form in action:
     for c in animals:
         print "%s has %s legs"%(c, "two" if c in twoleg else "four")
 {% endhighlight %}
- 
+

@@ -1,10 +1,10 @@
---- 
+---
 layout: post
-title: WWDC Survival Guide 2009 (With additions!)
+title: "WWDC Survival Guide 2009 (With additions!)"
 published: true
-meta: 
+meta:
   _edit_last: "1"
-tags: 
+tags:
 - "2009"
 - Apple
 - Life
@@ -12,9 +12,9 @@ tags:
 type: post
 status: publish
 ---
-WWDC 2009 will be my fifth time attending as a student. So for all the student developers out there here are some tips. The goal of a student is different from those sent by their companies. For us WWDC is an opportunity to get internships or jobs at some of the top software development companies. 
+WWDC 2009 will be my fifth time attending as a student. So for all the student developers out there here are some tips. The goal of a student is different from those sent by their companies. For us WWDC is an opportunity to get internships or jobs at some of the top software development companies.
 
-# 
+#
 
 For the keynote:
 
@@ -23,7 +23,7 @@ For the keynote:
   * **Bring something to sit on. **Or be prepared to stand.
   * The line is a networking opportunity.
 
-# 
+#
 
 For**inside** the conference:
 
@@ -49,7 +49,7 @@ For**inside** the conference:
   * The Apple engineers are also really friendly, talk to them.
   * **Bring proof of age on Thursday night**. The official party is always on Thursday night, and the apple big wigs are in the crowd. Go try to dance with Phil Schiller.
 
-# 
+#
 
 For**outside** the conference:
 

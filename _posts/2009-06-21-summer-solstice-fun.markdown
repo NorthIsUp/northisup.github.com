@@ -1,10 +1,10 @@
---- 
+---
 layout: post
-title: Summer solstice fun
+title: "Summer solstice fun"
 published: true
-meta: 
+meta:
   _edit_last: "2"
-tags: 
+tags:
 - Life
 type: post
 status: publish

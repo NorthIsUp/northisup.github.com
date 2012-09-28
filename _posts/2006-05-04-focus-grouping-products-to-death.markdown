@@ -1,12 +1,12 @@
---- 
+---
 layout: post
-title: Focus grouping products to death.
+title: "Focus grouping products to death."
 published: true
-meta: 
+meta:
   btc_comment_summary: a:0:{}
   _edit_last: "2"
   btc_comment_counts: a:0:{}
-tags: 
+tags:
 - Apple
 - Life
 type: post
@@ -18,14 +18,14 @@ This product has been focus grouped to death.
 
 I don't know if you have ever taken part in consumer research surveys, but let me give you a little idea of how they go.
 
-How important is the easy access of the following features on a 1 (low) to 5 (high) scale:  
-1 2 3 4 5 Red eye reduction  
-1 2 3 4 5 Flash toggle  
-1 2 3 4 5 White balance adjust  
-1 2 3 4 5 Sport mode  
-1 2 3 4 5 3D  
-1 2 3 4 5 Video  
-1 2 3 4 5 ...  
+How important is the easy access of the following features on a 1 (low) to 5 (high) scale:
+1 2 3 4 5 Red eye reduction
+1 2 3 4 5 Flash toggle
+1 2 3 4 5 White balance adjust
+1 2 3 4 5 Sport mode
+1 2 3 4 5 3D
+1 2 3 4 5 Video
+1 2 3 4 5 ...
 and the list goes on.
 
 To today's consumer almost all of these buzzword loaded features seem important, so of course we will see a majority of 4s and 5s. Apparently somewhere in the translation of the survey "easy access" becomes "has its own button."

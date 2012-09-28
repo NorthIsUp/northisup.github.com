@@ -1,12 +1,12 @@
---- 
+---
 layout: post
-title: A New Sith, or Revenge of the Hope (mirror)
+title: "A New Sith, or Revenge of the Hope (mirror)"
 published: true
-meta: 
+meta:
   aktt_notify_twitter: "yes"
   _edit_last: "2"
   aktt_tweeted: "1"
-tags: 
+tags:
 - Life
 type: post
 status: publish

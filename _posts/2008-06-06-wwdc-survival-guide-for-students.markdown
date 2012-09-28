@@ -1,13 +1,13 @@
---- 
+---
 layout: post
-title: WWDC Survival Guide (For Students)
+title: "WWDC Survival Guide (For Students)"
 published: true
-meta: 
+meta:
   btc_comment_summary: a:0:{}
   _edit_last: "2"
   friendfeed_id: 5265217e83d973013f5addf16785df32
   btc_comment_counts: a:0:{}
-tags: 
+tags:
 - Apple
 - Life
 - Technology
@@ -15,7 +15,7 @@ tags:
 type: post
 status: publish
 ---
-WWDC 2008 will be my fourth time attending as a student. So for all the student developers out there here are some tips. The goal of a student is different from those sent by their companies. For us WWDC is an opportunity to get internships or jobs at some of the top software development companies. [singlepic=6,425,350] 
+WWDC 2008 will be my fourth time attending as a student. So for all the student developers out there here are some tips. The goal of a student is different from those sent by their companies. For us WWDC is an opportunity to get internships or jobs at some of the top software development companies. [singlepic=6,425,350]
 
 # For **inside** the conference:
 
@@ -31,7 +31,7 @@ WWDC 2008 will be my fourth time attending as a student. So for all the student 
   * **The best session is Stump The Experts.**Get there early, it fills up. If you want a t-shirt the easiest way is to ID a walk in song (I have 2 hats and one t-shirt thanks to paying attention to the walk in songs).
   * **Don't waste your time playing video games.**WWDC has a great showcase of the best of Mac gaming, it is very easy to get sucked in while playing Doom on a 30" Apple Cinema Display with Bose simulated surround headphones. I missed many manny sessions my first year due to this deadly combination.
 
-# 
+#
 
 For **outside** the conference:
 

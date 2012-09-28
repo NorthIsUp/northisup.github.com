@@ -1,8 +1,8 @@
---- 
+---
 layout: post
-title: cli wikipedia
+title: "cli wikipedia"
 published: true
-meta: 
+meta:
   aktt_notify_twitter: "yes"
   quote-url: http://
   _edit_last: "2"
@@ -11,7 +11,7 @@ meta:
   image: ""
   link-url: http://
   quote-author: Unknown
-tags: 
+tags:
 - Life
 - protip
 type: post

@@ -1,12 +1,12 @@
---- 
+---
 layout: post
-title: Oh, Shenandoah!
+title: "Oh, Shenandoah!"
 published: true
-meta: 
+meta:
   btc_comment_summary: a:0:{}
   _edit_last: "2"
   btc_comment_counts: a:0:{}
-tags: 
+tags:
 - everything
 - Green
 - Life

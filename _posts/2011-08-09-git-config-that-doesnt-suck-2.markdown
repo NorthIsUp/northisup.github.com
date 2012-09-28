@@ -1,12 +1,12 @@
---- 
+---
 layout: post
-title: Git config that doesn't suck.
+title: "Git config that doesn't suck."
 published: true
-meta: 
+meta:
   aktt_notify_twitter: "yes"
   _edit_last: "2"
   aktt_tweeted: "1"
-tags: 
+tags:
 - Code
 type: post
 status: publish

@@ -1,10 +1,10 @@
---- 
+---
 layout: post
-title: The First EULA?
+title: "The First EULA?"
 published: true
-meta: 
+meta:
   _edit_last: "2"
-tags: 
+tags:
 - Life
 type: post
 status: publish

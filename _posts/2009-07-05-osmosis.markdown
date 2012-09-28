@@ -1,12 +1,12 @@
---- 
+---
 layout: post
-title: Osmosis
+title: "Osmosis"
 published: true
-meta: 
+meta:
   aktt_notify_twitter: "yes"
   _edit_last: "2"
   btc_comment_counts: a:0:{}
-tags: 
+tags:
 - catz
 - Life
 - Osmosis

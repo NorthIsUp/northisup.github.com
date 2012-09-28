@@ -1,15 +1,15 @@
---- 
+---
 layout: post
-title: Interweb Muppets
+title: "Interweb Muppets"
 published: true
-meta: 
+meta:
   aktt_notify_twitter: "yes"
   _edit_last: "2"
   aktt_tweeted: "1"
   Image: ""
   btc_comment_counts: a:0:{}
   video_type: "#NONE#"
-tags: 
+tags:
 - featured
 - Life
 type: post

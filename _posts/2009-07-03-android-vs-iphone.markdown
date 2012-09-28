@@ -1,10 +1,10 @@
---- 
+---
 layout: post
-title: Android vs iPhone
+title: "Android vs iPhone"
 published: true
-meta: 
+meta:
   _edit_last: "2"
-tags: 
+tags:
 - Android
 - iPhone
 - Life

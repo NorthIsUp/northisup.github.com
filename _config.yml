@@ -84,7 +84,6 @@ JB :
     provider : disqus
     disqus :
       short_name : northisup
-      identifier_base: http://northisup.com
     livefyre :
       site_id : 123
     intensedebate :

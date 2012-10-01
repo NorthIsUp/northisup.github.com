@@ -8,7 +8,6 @@ tags:
 - api
 - Code
 - Google
-- Life
 - python
 - Technology
 - Web 2.0

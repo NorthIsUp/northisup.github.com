@@ -8,7 +8,6 @@ meta:
   btc_comment_counts: a:0:{}
 tags:
 - Code
-- Life
 - School
 type: post
 status: publish

@@ -9,7 +9,6 @@ meta:
   btc_comment_counts: a:0:{}
 tags:
 - Apple
-- Life
 - Technology
 - WWDC
 type: post

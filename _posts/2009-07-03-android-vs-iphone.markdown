@@ -7,7 +7,6 @@ meta:
 tags:
 - Android
 - iPhone
-- Life
 - Programming
 type: post
 status: publish

@@ -10,7 +10,6 @@ meta:
 tags:
 - Douglas Adams
 - Internet
-- Life
 - Technology
 - Video
 type: post

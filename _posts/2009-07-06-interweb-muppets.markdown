@@ -11,7 +11,6 @@ meta:
   video_type: "#NONE#"
 tags:
 - featured
-- Life
 type: post
 status: publish
 ---

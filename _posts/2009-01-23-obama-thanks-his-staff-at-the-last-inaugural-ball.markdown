@@ -6,7 +6,6 @@ meta:
   _edit_last: "2"
   _wp_old_slug: obama-thanks-his-staff-at-the-last-inaugeral-ball
 tags:
-- Life
 type: post
 status: publish
 ---

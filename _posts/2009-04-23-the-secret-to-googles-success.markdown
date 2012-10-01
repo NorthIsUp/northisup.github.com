@@ -6,7 +6,6 @@ meta:
   _edit_last: "3"
 tags:
 - Google
-- Life
 - zelda
 type: post
 status: publish

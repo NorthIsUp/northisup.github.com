@@ -11,7 +11,6 @@ tags:
 - crowd-sourcing
 - gaming
 - Humanity
-- Life
 - Science
 type: post
 status: publish

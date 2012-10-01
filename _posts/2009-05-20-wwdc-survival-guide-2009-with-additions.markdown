@@ -7,7 +7,6 @@ meta:
 tags:
 - "2009"
 - Apple
-- Life
 - WWDC
 type: post
 status: publish

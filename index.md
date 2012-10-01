@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: North Is ⇡
 ---
 {% include JB/setup %}
 
 {% for post in site.posts limit:3 %}
-# <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-{{ post.date | date_to_string }}
-{{ post.content }}
+## <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+
+{{ post.excerpt }}
 <hr />
+<hr />
+
 {% endfor %}
 
 

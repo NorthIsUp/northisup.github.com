@@ -6,7 +6,6 @@ meta:
   _edit_last: "2"
   btc_comment_counts: a:0:{}
 tags:
-- Life
 - SPAM
 type: post
 status: publish

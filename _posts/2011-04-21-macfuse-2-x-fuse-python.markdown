@@ -18,7 +18,6 @@ tags:
 - Code
 - FUSE
 - git
-- Life
 - python
 - tl;dr
 type: post

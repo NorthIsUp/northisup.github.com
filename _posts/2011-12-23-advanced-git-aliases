@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Advanced git aliases
 published: true
@@ -6,73 +6,74 @@ type: post
 status: draft
 ---
 
-  [color]
-    status             = auto
-    branch             = auto
-    diff               = auto
-    ui                 = auto
-  [color "branch"]
-    current            = yellow reverse
-    local              = yellow
-    remote             = green
-  [color "diff"]
-    meta               = yellow bold
-    frag               = magenta bold
-    old                = red bold
-    new                = green bold
-    whitespace         = red reverse
-  [color "status"]
-    added              = yellow
-    changed            = green
-    untracked          = cyan
-  [merge]
-    tool               = opendiff
-  [core]
-    excludesfile       = /Users/north/.gitignore
-    whitespace         = fix,tab-in-indent,trailing-space,cr-at-eol
-    autocrlf           = input
-    safecrlf           = warn
-    #editor            = mate -w
-  [alias]
-    amend              = commit -a --amend
-    br                 = branch
-    ci                 = commit
-    co                 = checkout
-    dco                = svn dcommit
-    detach             = checkout HEAD^0
-    df                 = diff
-    fa                 = fetch --all
-    ft                 = svn fetch
-    lg                 = log --pretty=oneline --all --graph --abbrev-commit --decorate
-    lgwho              = log --graph --pretty=format:'%C(yellow)%h%Creset -%C(magenta)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
-    ll                 = log --raw
-    lo                 = log --pretty=oneline --graph
-    log                = log --graph
-    logp               = log -p --graph
-    logs               = log --stat --graph
-    mom                = merge origin/master
-    rl                 = rev-list --pretty=oneline --all --graph --abbrev-commit -n 100
-    st                 = status
-    stat               = status
-    tm                 = co -t tropo/master
-    up                 = svn rebase
-    what               = whatchanged
-    #open a github url for the current git repo
-    hub                = !git remote -v|sed "'s|.*git[:@]\\(.*\\).git.*|http://\\1|;s|m:|m/|'"|uniq|xargs open
-    #open a tropo gitweb url for the current git repo
-    web                = !git remote -v|sed "'s|.*ssh://gerrit/\\(.*.git\\).*|https://tropo.office.skype.net/gitweb/?p=\\1|'"|uniq|xargs open
-    chop               = !zsh -c "CB=$(git branch | grep '\\*') && CB=${CB[3,-1]} && [ $CB != \"(no branch)\" ] && git checkout --detach ${1:-\"HEAD\"} && git branch -d ${CB}"
-    this               = !git init && git add . && git commit -m \"initial commit\"
-    alias              = !git config --list | grep 'alias\\.' | sed 's/alias\\.\\([^=]*\\)=\\(.*\\)/\\1\\t=> \\2/' | sort
-    ignore             = !([ ! -e .gitignore ] && touch .gitignore) | echo $1 >>.gitignore
+    [color]
+      status             = auto
+      branch             = auto
+      diff               = auto
+      ui                 = auto
+    [color "branch"]
+      current            = yellow reverse
+      local              = yellow
+      remote             = green
+    [color "diff"]
+      meta               = yellow bold
+      frag               = magenta bold
+      old                = red bold
+      new                = green bold
+      whitespace         = red reverse
+    [color "status"]
+      added              = yellow
+      changed            = green
+      untracked          = cyan
+    [merge]
+      tool               = opendiff
+    [core]
+      excludesfile       = /Users/north/.gitignore
+      whitespace         = fix,tab-in-indent,trailing-space,cr-at-eol
+      autocrlf           = input
+      safecrlf           = warn
+      #editor            = mate -w
+    [alias]
+      amend              = commit -a --amend
+      br                 = branch
+      ci                 = commit
+      co                 = checkout
+      dco                = svn dcommit
+      detach             = checkout HEAD^0
+      df                 = diff
+      fa                 = fetch --all
+      ft                 = svn fetch
+      lg                 = log --pretty=oneline --all --graph --abbrev-commit --decorate
+      lgwho              = log --graph --pretty=format:'%C(yellow)%h%Creset -%C(magenta)%d%Creset   %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+      ll                 = log --raw
+      lo                 = log --pre  tty=oneline --graph
+      log                = log --gra  ph
+      logp               = log -p --  gr  aph
+      logs               = log --sta  t   --graph
+      mom                = merge ori  gi  n/maste  r
+      rl                 = rev-list   --  pretty=  oneline --all --graph --abbrev-commit -n 100
+      st                 = status
+      stat               = status
+      tm                 = co -t   tropo/master
+      up                 = svn re  base
+      what               = whatch  ange  d
+      #open a github url for the   curr  ent git repo
+      hub                = !git r  emot  e -v|sed "'s  |.*git[:@]\\(.*\\).git.  *|http://\\1|;s|m:|m/|'"|un  iq|x  args open
+      #open a tropo gitweb url fo  r th  e current   git repo
+      web                = !git r  emot  e -v|sed   "'s|.*ssh://gerrit/\\(.*.g  it\\).*|https://tropo.  office.skype.net/gitweb/?p=  \\1|  '"|uniq|x  args open
+      chop               = !zsh -  c "C  B=$(git b  ranch | g  rep '\\*') && CB=${CB[3,-1]} && [ $CB != \"(  no branch)\" ] && git check  out   --detach   ${1:-\"HE  AD\"} && git branch -d ${CB}"
+      this               = !git i  nit   && git ad  d . && gi  t commit -m \"initial commit\  "
+      alias              = !git c  onfi  g --list   | grep 'a  lias\\.' | sed 's/alias\\.\\(  [^=]*\\)=\\(.  *\\)/\\1\\t=> \\2/' | sort
+      ignore             = !([ !   -e .gitignore ] && touch .gitignore) | echo $1 >>.gitignore
 
 
-    # ## Skype stuff
-    # gerrit             = !git remote -v|sed "'s|.*ssh://gerrit/\\(.*.git\\).*|https://tropo.office.skype.net/gerrit/#q,status:open+project:\\1,n,z|'"|uniq|xargs open
-    # approve            = !ssh gerrit gerrit approve --verified=+1 --code-review=+2 --submit --project `git remote -v|sed "'s|.*ssh://gerrit/\\(.*\\).git.*|\\1|g'"|uniq`
-    # reject             = !ssh gerrit gerrit approve --verified=-1 --code-review=-2 --submit --project `git remote -v|sed "'s|.*ssh://gerrit/\\(.*\\).git.*|\\1|g'"|uniq`
+      # ## Skype stuff
+      # gerrit             = !git remote -v|sed "'s|.*ssh://gerrit/\\(.*.git\\).*|https://tropo.  office.skype.net/gerrit/#q,status:open+project:\\1,n,z|'"|uniq|xargs open
+      # approve            = !ssh gerrit gerrit approve --verified=+1 --code-re  view=+2 --submit   --  project `git remote -v|sed "'s|.*ssh://gerrit/\\(.*\\).git.*|\\1|g'"|uniq  `
+      # reject             = !ssh gerrit gerrit approve --verified=-1 --code-re  v  iew=-2 --submit --  project `git remote -v|sed "'s|.*ssh://gerrit/\\(.*\\).git.*|\\1|g'"|uniq  `
 
-  [status]
-    showUntrackedFiles = no
-  [branch]
-    autosetuprebase   = always
+    [status]
+      showUntrackedFiles = no
+    [branch]
+      autosetuprebase   = always
+

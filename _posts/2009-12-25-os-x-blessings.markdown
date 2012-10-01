@@ -7,7 +7,6 @@ meta:
   _edit_last: "2"
   aktt_tweeted: "1"
 tags:
-- Life
 type: post
 status: publish
 ---

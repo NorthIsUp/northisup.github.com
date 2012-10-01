@@ -1,19 +1,18 @@
---- 
+---
 layout: post
 title: "Fiji Water, Energy, and You: Deconstructing a Global Supply Chain"
 published: true
-meta: 
+meta:
   btc_comment_summary: a:0:{}
   _edit_last: "2"
   btc_comment_counts: a:0:{}
-tags: 
+tags:
 - Eco-Tech
 - energy
 - Environment
 - Global Warming
 - Globalization
 - Green
-- Life
 type: post
 status: publish
 ---
@@ -37,7 +36,7 @@ _Connecting Fiji to North America_:
 
 There is something to be said about the fact that millions of Americans, Australians, and Canadians have an intrinsic connection to Fiji through the water they choose to consume. Since the first bottling plant opened for Fiji Waters, the island nation has become connected to a multitude of areas of consumption, thanks to the complex global supply chains that connect economies, cultures, and societal values. A person from northern Michigan can identify with an Australian in terms of Fiji Water; in this case, both the product and the idea of Fiji Water are consumed and appreciated by consumers on different parts of the earth.
 
-But expensive bottled water is a curious commodity, and one must ask what people are really paying for when they put down their money for something that is more expensive than virtually any other liquid on the market. A single bottle of Fiji Water costs $.22 to produce with a net profit of $1.77 per bottle, and when you really get down to it that extra $1.77 the consumer pays is for the convenience of having the water. Fiji is one of the few bottle water companies that doesn't re-sell city water, like Dasani and Aquafina, which ultimately underscores the fact that the realy value in bottled water is the convenience. 
+But expensive bottled water is a curious commodity, and one must ask what people are really paying for when they put down their money for something that is more expensive than virtually any other liquid on the market. A single bottle of Fiji Water costs $.22 to produce with a net profit of $1.77 per bottle, and when you really get down to it that extra $1.77 the consumer pays is for the convenience of having the water. Fiji is one of the few bottle water companies that doesn't re-sell city water, like Dasani and Aquafina, which ultimately underscores the fact that the realy value in bottled water is the convenience.
 
 _Historical Process of Fiji Water:_
 
@@ -63,7 +62,7 @@ At the local and state level, the FDA heavily relies on local governments to app
 
 Bottled water imported into or manufactured in the United States must abide by the “Standards of Identity” in order to be publicly sold. The identity standards let consumers know what type of water they are drinking, and each standard has specifications that must be met in order to legally place the identity label on the bottle. Fiji Water falls under the identity of “Artesian Water”: “This type of water originates from a confined aquifer that has been tapped. The distinguishing feature of water from an artesian aquifer is that it flows from the tap due to gravity; the subterranean water level is at a height greater than that of the location of the tap.”
 
-In Fiji, the Fiji Water company is in a 99-year lease with the Fijian government for an undisclosed sum. The Fiji Revenue Customs Authority taxes Fiji Water for every box of water exported, currently at a rate $24. 
+In Fiji, the Fiji Water company is in a 99-year lease with the Fijian government for an undisclosed sum. The Fiji Revenue Customs Authority taxes Fiji Water for every box of water exported, currently at a rate $24.
 
 There are also market forces that govern Fiji Water, like consumer outrage. Consumers have played a large role in the shaping of bottled water regulation with specific regards to the PET.
 
@@ -75,7 +74,7 @@ Fiji Water has an economic interest in making sure the commodity chain is operat
 
 **Plastic Bottles:**
 
-** **There are several facets of the plastic production and disposal that have negative ecological implications. The PET resin, as stated above, is a high grade plastic and thus manufacturing process is more energy intensive. To make 1 kg of PET resin, 6.45 kg of oil and 294.2 kg of water are used up in the process. This process accounts for both the water used for cooling at the coal power plant, the water used in the cooling process at the PET manufacturing plant, the water used for cooling in the bottling plant in Fiji, the oil used in the chemical composition of the PET for both the bottles and the caps. 
+** **There are several facets of the plastic production and disposal that have negative ecological implications. The PET resin, as stated above, is a high grade plastic and thus manufacturing process is more energy intensive. To make 1 kg of PET resin, 6.45 kg of oil and 294.2 kg of water are used up in the process. This process accounts for both the water used for cooling at the coal power plant, the water used in the cooling process at the PET manufacturing plant, the water used for cooling in the bottling plant in Fiji, the oil used in the chemical composition of the PET for both the bottles and the caps.
 
 The greenhouse emissions that result from the manufacturing of PET resin caps and bottles are significant. “The manufacture of every ton of PET produces around 3 tons of carbon dioxide (CO2). Bottling water thus created more than 2.5 million tons of CO2 in 2006.”
 

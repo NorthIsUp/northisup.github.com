@@ -12,7 +12,7 @@ meta:
   link-url: http://
   quote-author: Unknown
 tags:
-- Life
+- cli
 - protip
 type: post
 status: publish

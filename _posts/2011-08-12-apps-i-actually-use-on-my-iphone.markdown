@@ -5,7 +5,6 @@ published: true
 meta:
   _edit_last: "2"
 tags:
-- Life
 type: post
 status: publish
 ---

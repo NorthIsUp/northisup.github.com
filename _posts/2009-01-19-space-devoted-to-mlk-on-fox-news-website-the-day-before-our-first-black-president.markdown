@@ -8,7 +8,6 @@ meta:
 tags:
 - 2008 Election
 - fox news
-- Life
 - Obama
 - Politics
 - Right Wing Bias

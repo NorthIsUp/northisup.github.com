@@ -8,7 +8,6 @@ meta:
   friendfeed_id: ada7ed8d6a4407af77a028eadf1fc1f1
   btc_comment_counts: a:0:{}
 tags:
-- Life
 type: post
 status: publish
 ---

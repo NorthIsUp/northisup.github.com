@@ -10,9 +10,8 @@ meta:
   _wp_old_slug: ""
   aktt_tweeted: "1"
 tags:
-- Life
 type: post
 status: publish
 ---
 
-Finally a hex based color picker for os x. A must for programmers that have to deal with the UI at all. http://wafflesoftware.net/hexpicker/
+Finally a [hex based color picker](http://wafflesoftware.net/hexpicker/) for os x. A must for programmers that have to deal with the UI at all.

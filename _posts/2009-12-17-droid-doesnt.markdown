@@ -7,7 +7,8 @@ meta:
   _edit_last: "2"
   aktt_tweeted: "1"
 tags:
-- Life
+- android
+- mobile
 type: post
 status: publish
 ---

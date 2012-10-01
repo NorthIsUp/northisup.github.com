@@ -8,7 +8,6 @@ meta:
   _edit_last: "3"
   btc_comment_counts: a:0:{}
 tags:
-- Life
 - small town nonsense
 - winter
 type: post

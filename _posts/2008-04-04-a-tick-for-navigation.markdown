@@ -8,7 +8,6 @@ meta:
   btc_comment_counts: a:0:{}
 tags:
 - everything
-- Life
 - Navigation
 - The Universe
 type: post

@@ -1,4 +1,4 @@
----
+ ---
 layout: post
 title: "Derek Sivers: How to start a movement"
 published: true

@@ -9,7 +9,6 @@ meta:
   aktt_tweeted: "1"
 tags:
 - coffee
-- Life
 - protip
 type: post
 status: publish

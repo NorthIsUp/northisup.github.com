@@ -6,7 +6,6 @@ meta:
   aktt_notify_twitter: "yes"
   aktt_tweeted: "1"
 tags:
-- Life
 type: post
 status: publish
 ---

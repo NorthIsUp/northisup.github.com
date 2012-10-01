@@ -1,0 +1,8 @@
+<script type="text/javascript" src="https://raw.github.com/embedly/embedly-jquery/master/jquery.embedly.min.js">
+</script>
+<script type="text/javascript">
+$(document).ready(function () {
+    $.embedly.defaults['key'] = '0f1e60a8ba5f11e0a4f24040d3dc5c07';
+    $('a').embedly();
+});
+</script>

@@ -10,4 +10,6 @@ status: publish
 ---
 This is one of my favorite TED talks.
 
-<a href="http://www.youtube.com/embed/V74AxCqOTvg">http://www.youtube.com/embed/V74AxCqOTvg</a>
+<div class="embed" markdown="1">
+[http://www.youtube.com/embed/V74AxCqOTvg](http://www.youtube.com/embed/V74AxCqOTvg)
+</div>

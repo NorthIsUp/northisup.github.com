@@ -1,0 +1,8 @@
+<script type="text/javascript" src="https://raw.github.com/marioestrada/scrooge-js/master/scrooge.min.js">
+</script>
+
+<script>
+    Scrooge.addSite('amazon', 'amazon.com', 'tag', 'httpmariec-20')
+    Scrooge.addSite('itunes', 'itunes.apple.com', 'affId', 'A78DAlWI4Vw');
+</script>
+

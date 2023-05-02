@@ -3,7 +3,6 @@
 permalink: /blog/:title/
 # permalink: /:categories/:year/:month/:day/:title
 
-
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
@@ -30,8 +29,21 @@ author:
 #
 production_url: http://NorthIsUp.com
 
+plugins:
+  - jekyll-gist
+  - jekyll-redirect-from
+
+# Enable safe mode
+safe: true
+
+# Whitelist plugins under safe mode.
+# Note that `some-other-jekyll-plugin` is not listed here. Therefore,
+# it will not be loaded under safe mode.
+whitelist:
+  - jekyll-gist
+  - jekyll-redirect-from
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
-#
 JB:
   version: 0.2.13
 
@@ -99,16 +111,15 @@ JB:
   # Set 'provider' to false to turn analytics off globally.
   #
   analytics:
-    provider: ['google', 'gosquared', 'mixpanel']
+    provider: ["google", "gosquared", "mixpanel"]
     gosquared:
-      tracking_id: 'GSN-439367-C'
+      tracking_id: "GSN-439367-C"
     google:
-      tracking_id: 'UA-4048470-1'
+      tracking_id: "UA-4048470-1"
     getclicky:
       site_id:
     mixpanel:
-      token: 'db6ef18e13803d8bb94870aca2c9d6e8'
-
+      token: "db6ef18e13803d8bb94870aca2c9d6e8"
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
@@ -128,7 +139,6 @@ JB:
     vimeo:
       width: 500px
 
-
   # Settings for all other include helpers can be defined by creating
   # a hash with key named for the given helper. ex:
   #
@@ -139,5 +149,3 @@ JB:
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-
-
